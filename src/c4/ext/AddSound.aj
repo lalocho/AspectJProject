@@ -1,5 +1,5 @@
 
-package ext;
+package c4.ext;
 //import java.awt.Color;
         import java.io.IOException;
         import javax.sound.sampled.AudioInputStream;
@@ -7,7 +7,7 @@ package ext;
         import javax.sound.sampled.Clip;
         import javax.sound.sampled.LineUnavailableException;
         import javax.sound.sampled.UnsupportedAudioFileException;
-        import c4.base.C4Dialog;
+        import c4.model.base.C4Dialog;
 
 
 public privileged aspect AddSound {

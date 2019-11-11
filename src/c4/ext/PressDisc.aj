@@ -1,5 +1,6 @@
-package ext;
-import c4.base.*;
+package c4.ext;
+import c4.base.BoardPanel;
+
 import java.awt.event.MouseAdapter;
 import java.awt.*;
 import java.awt.event.MouseEvent;

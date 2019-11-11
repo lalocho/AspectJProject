@@ -1,15 +1,6 @@
-package ext;
+package c4.ext;
 
-import java.awt.Color;
-import java.awt.Graphics;
-import java.util.List;
-import c4.model.Board.Place;
-import c4.base.BoardPanel;
 import c4.base.C4Dialog;
-import c4.base.ColorPlayer;
-
-import java.awt.event.MouseEvent;
-import java.awt.event.MouseMotionAdapter;
 
 public privileged aspect EndGame{
 

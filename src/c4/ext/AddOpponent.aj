@@ -1,4 +1,4 @@
-package ext;
+package c4.ext;
 
 import java.awt.Color;
 import c4.base.ColorPlayer;
